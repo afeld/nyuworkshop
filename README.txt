@@ -1,3 +1,3 @@
 NYU Workshop Example Repository
 
-Aidan Feldman
+Aidan L. Feldman
